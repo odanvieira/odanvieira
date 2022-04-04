@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Daniel Vieira! 👋
 
 <!--
 **odanvieira/odanvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<div>
- 
-  ![Snake animation](https://github.com/odanvieira)
- 
-</div>
+
